@@ -1,3 +1,5 @@
+Есть файл настроек confServer/config.properties
+
 Есть зависимость: chartClient
 
 Сбор по умолчанию идет в путь_к_проекту/target/chatServer, 
